@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/thalyssonborges">
-  <img height="171em" src="https://github-readme-stats.vercel.app/api?username=thalyssonborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalyssonborges&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thalyssonborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalyssonborges&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="thalysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,7 +13,6 @@
   <img align="right" alt="thalysson-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913873818886471713/913946434569646100/picasion.com_635e332d45c104d68c5f1371ad0e3955.gif">
 </div>
   
- 
   ##
  
 <div> 
@@ -23,10 +22,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  
-  
-  
- 
   ![Snake animation](https://github.com/thalyssonborges/thalyssonborges/blob/output/github-contribution-grid-snake.svg)
  
 </div>
